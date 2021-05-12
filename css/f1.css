@@ -1,0 +1,28 @@
+.ab{
+	padding-top: 30px;
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 3px;
+}
+.abc{
+	text-align: justify;
+	line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.b{
+	background:url('https://www.firstfiddle.in/assets/images/bannerabout.jpg');
+	width: 100%;
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+
+}
+.c{
+	line-height: 40px;
+	letter-spacing: 1px;
+	text-align: center;
+
+}

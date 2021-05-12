@@ -1,0 +1,44 @@
+.a{
+	margin-top: 40px;
+	text-align: center;
+}
+.icon{
+	text-align: center;
+	border-radius: 50%;
+    height: 138px;
+    width: 160px;
+    margin-left: 70px;
+    margin-top: 59px;
+    box-shadow: 0px 0px 20px rgb(0 0 0 / 10%);
+	
+}
+.img{
+	height: 104px;
+	width: 104px;
+	margin-top: 20px;
+}
+.b{
+	margin-top: 30px;
+}
+.c{
+	    border-radius: 1.25rem;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0px 0px 25px rgb(0 0 0 / 10%);
+}
+.bg{
+	background-color: #009df2;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	           margin-top: 150px;
+}
+.text{
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 48px;
+	text-transform: capitalize;
+	padding: 60px;
+    color: white;
+    margin-top: 85px;
+}
