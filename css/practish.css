@@ -1,0 +1,55 @@
+.a{
+	background-color: #0000008f;
+}
+
+.hadder{
+	color: white!important;
+}
+.bg{
+	background: #000000;
+	padding-bottom: 50px;
+}
+.m{
+	margin-top: 50px;
+}
+.tl{
+	margin-top: 12px;
+
+}
+.text{
+	color: #f5d831;
+	font-family: auto;
+}
+.tb{
+	color: #f5d831;
+	font-family: auto;
+}
+.bt{
+	margin-top: -20px;
+}
+.b{
+	margin-top: -90px;
+}
+.bu{
+    border-color: white;
+    margin-top: -185px;
+    color: white;
+    margin-left: 5px;
+}
+.bk{
+	    background: #000000;
+    padding-bottom: 50px;
+    margin-top: -25px;
+}
+.c{
+	    padding-top: 50px;
+}
+@media(max-width: 600px)
+{
+	.b{
+		margin-top: 0px;
+	}
+	.bu{
+	   margin-top: -111px;
+	}
+}

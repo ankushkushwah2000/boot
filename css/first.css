@@ -1,0 +1,140 @@
+.a{
+	background-color: #0000008f;
+
+}
+.h{
+	color: #fbab29!important;
+	font-weight: 600;
+}
+.hadder{
+	color: white!important;
+	font-weight: 600;
+}
+.border{
+	border: solid;
+	border-color: #fbab29!important;
+}
+.ml{
+	padding-top: 50px;
+	 font-family: prague;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.mob{
+	display: none;
+}
+.text{
+	text-align: justify;
+	    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+     margin-top: 30px;
+    font-size: 21px;
+    font-weight: 100;
+}
+.img{
+	margin-top: 20px;
+	height: 400px;
+}
+@media(max-width: 600px)
+{
+	.a{
+		background-color:  #fec926;
+	}
+	.mob{
+		display: block;
+	}
+	.weblogo{
+		display: none;
+	}
+}
+.b{
+	background: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    margin-top: 100px;
+    width: 100%;
+    padding-bottom: 50px;
+       
+}
+.c{
+	margin-top: 120px;
+	font-family: auto;
+	    font-size: 65px;
+}
+.d{
+    line-height: 40px;
+    letter-spacing: 3px;
+    font-size: 16px;
+    font-weight: 100;
+    word-spacing: 1px;
+}
+.e{
+	margin-top: 50px;
+}
+.f{
+	background: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+    margin-top: 100px;
+    padding-bottom: 50px;
+        
+}
+.footer{
+	background: #020306f0;
+	color:  #fff;
+	padding: 30px;
+}
+.g{
+	color: white;
+}
+.i{
+    font-size: 50px;
+    color: #fec926;
+    font-family: auto;
+    letter-spacing: 3px;
+}
+.j{
+    color: #fec926;
+}
+.k{
+	    font-size: 40px;
+    color: #fbad1b;
+}
+
+.l{
+	background: url(https://www.firstfiddle.in/assets/images/gamebanner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+    margin-top: 100px;
+    padding-bottom: 50px;
+        
+}
+.mt{
+	padding-top: 50px;
+	 font-family: prague;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+.dt{
+	margin-top: 40px;
+}
+.tx{
+	text-align: justify;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+}
+.lt{
+	margin-top: 30px;
+	text-align: center;
+}
+.mp{
+	text-align: center;
+}
+.pd{
+	padding: 10px;
+}
